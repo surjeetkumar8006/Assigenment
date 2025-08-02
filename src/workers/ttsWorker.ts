@@ -11,3 +11,4 @@ self.onmessage = async (e) => {
 };
 
 export default null as any;
+
